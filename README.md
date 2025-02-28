@@ -1,3 +1,6 @@
+ComfyUI I modified to work in a colab notebook.
+
+
 ComfyUI
 =======
 The most powerful and modular stable diffusion GUI and backend. Now working on Colab again!
